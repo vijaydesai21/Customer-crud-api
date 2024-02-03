@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ohR2nf0kgfG1KusHPiLRXNB0CIo1gHGWF1Ku7E+wSx0=",
+  "Source": "CustomerModule.Api",
+  "BasePath": "_content/CustomerModule.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
